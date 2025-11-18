@@ -54,6 +54,3 @@ Este projeto foi desenvolvido com a colaboração de:
 <br>
 
 
-🌐 Visualize o projeto:
----
-👉 [Clique aqui para acessar](https://joaogallindo-coder.github.io/Focus-Learn/)
